@@ -1,2 +1,2 @@
 # pios
-custom OS for pi cluster (under development)
+OS for pi cluster (under development)
